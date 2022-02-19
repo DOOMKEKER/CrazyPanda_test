@@ -45,5 +45,6 @@ CTestTestfile.cmake
 _deps
 
 #Others
+/.vscode
 .vscode
 build
